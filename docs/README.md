@@ -7,9 +7,9 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: Theme Plume
-      tagline: VuePress Next Theme
-      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
+      name: 宝宝看我的新页面
+      tagline: 基于习思想+github+vercel+二级域名的超绝网页展示
+      text: 嘿嘿嘬嘬~~嘬嘬嘬嘬
       actions:
         -
           theme: brand
