@@ -7,9 +7,9 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: 宝宝看我的新页面
-      tagline: 基于习思想+github+vercel+二级域名的超绝网页展示
-      text: 嘿嘿嘬嘬~~嘬嘬嘬嘬
+      name: test
+      tagline: test
+      text: test test
       actions:
         -
           theme: brand
